@@ -8,6 +8,7 @@ import MyWritings from './Pages/MyWritings'
 import AddNew from './Pages/AddNew'
 import About from './Pages/About'
 
+//Main Component
 function App() {
   return (
     <QuoteProvider>
